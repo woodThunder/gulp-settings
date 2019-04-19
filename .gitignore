@@ -1,0 +1,6 @@
+﻿# node.js 的模块存储目录
+node_modules/
+# 编辑器自己的文件
+.idea
+.project
+package-lock.json

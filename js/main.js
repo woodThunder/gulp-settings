@@ -1,0 +1,1 @@
+"use strict";var obj={name:"xujingwei",age:28,sex:"fale"},a=1,b=2,oo={num:50};Object.assign(oo,obj),console.log(oo);var arr=[1,2,3];
